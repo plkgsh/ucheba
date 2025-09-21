@@ -1,2 +1,3 @@
-const z = typeof 132132132132131asdad23213123123213123
-console.log(z
+const prompt = require('prompt-sync')();
+const wow = prompt("otsosi");
+console.log(wow)
